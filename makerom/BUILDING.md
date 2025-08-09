@@ -1,9 +1,8 @@
 # Building
-## Linux (incl. Windows Subsystem for Linux) & MacOS & Windows (MinGW)- Makefile
+## On Termux.
 ### Requirements
-* `make`
-* Terminal access
-* Typical GNU compatible development tools (e.g. `clang`, `gcc`, `ar` etc) with __C11__ support
+* Install `build-essential`
+* Install `binutils`
 
 ### Using Makefile
 * `make` (default) - Compile program
