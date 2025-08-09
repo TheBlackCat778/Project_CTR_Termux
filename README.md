@@ -6,8 +6,8 @@ The original project is a collection of custom Nintendo 3DS tools. This version 
 
 ## Tools
 
-*   **ctrtool** - A tool to read/extract Nintendo 3DS files.
-*   **makerom** - Creates CTR cxi/cfa/cci/cia files.
+*   [**ctrtool**](https://github.com/TheBlackCat778/Project_CTR_Termux/blob/master/ctrtool/README.md) - A tool to read/extract Nintendo 3DS files.
+*   [**makerom**](https://github.com/TheBlackCat778/Project_CTR_Termux/blob/master/makerom/README.md) - Creates CTR cxi/cfa/cci/cia files.
 
 [**Download All Binaries (v1.2.1)**](https://github.com/TheBlackCat778/Project_CTR_Termux/releases/tag/v1.2.1)
 
